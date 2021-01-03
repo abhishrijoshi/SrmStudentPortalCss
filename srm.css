@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css2?family=Calibri:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+form.ng-untouched.ng-pristine.ng-valid {
+  background-color: #1E1C1C;
+  font-family: Calibri;
+}
+
+div.user-panel.d-flex {
+  background-color: #222445;
+}
+
+li.nav-item.has-treeview.menu-open {
+  background-color: #0F0F0F;
+}
+
+div.os-content {
+  background-color: #0F0E0E;
+}
+
+a.brand-link {
+  background-color: #6A4A4A;
+}
+
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+  background-color: #FFFFFF;
+}
+
+ul.navbar-nav.navbar-nav-left {
+  background-color: #1A1515;
+}
+
+
+div.row.mb-2 {
+  background-color: #424C59;
+}
+
+footer.main-footer {
+  background-color: #0F0E0E;
+}
+
+section.content {
+  background-color: #181616;
+}
+
+div.dataTables_wrapper.no-footer {
+  background-color: #101F2E;
+}
+
+th.sorting {
+  background-color: #0B0606;
+}
+
+div.commoncontentclass {
+  color: #E4BC1A;
+  background-color: #050505;
+}
+
+div div label {
+  color: #8882DA;
+}
+
+div.row.p-l-r-1.topbarclass {
+  background-color: #9496EE;
+}
