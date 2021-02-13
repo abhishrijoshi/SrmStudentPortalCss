@@ -1,0 +1,63 @@
+tbody tr td {
+  background-color: #020202;
+  color: #FFC978;
+}
+
+#main {
+  color: #15212;
+  background-color: #000000;
+}
+
+p.big {
+  background-color: #000000;
+  color: #D4D4D4;
+  font-size: 14px;
+}
+
+div p font {
+  color: #32FFD6;
+}
+
+div font p {
+  color: #E4E4E4;
+}
+
+tr td label {
+  color: #ECEAEA;
+}
+
+div li span {
+  color: #FFEFEF;
+}
+
+td.zc-pane-right {
+  background-color: #000000;
+}
+
+tr td strong {
+  color: #FF3297;
+}
+
+p font font {
+  background-color: #382626;
+  color: #32FFD6;
+  
+}
+
+div.zc-menutabdiv {
+  background-color: #000000;
+  color: #FFC978;
+}
+
+a.zc-tab-header-a-menu {
+  background-color: #000000;
+  color: #FF3297;
+}
+
+td a img {
+  color: #FF3297;
+}
+
+img.header-png {
+   display: none;
+}
