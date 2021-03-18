@@ -61,3 +61,22 @@ td a img {
 img.header-png {
    display: none;
 }
+div li span {
+	  color: #000000;
+  }
+td.zc-labelheader {
+	 background-color: #000000;
+	 color: #FFFFFF;
+      }
+tr td label {
+        color: #FAF3F3;
+	}
+td.zc-inputheader {
+	  background-color: #000000;
+	  }
+ table.zc-subformcontent {
+		    background-color: #000000;
+	    }
+
+		      
+	    
